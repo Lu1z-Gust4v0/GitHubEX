@@ -1,5 +1,5 @@
 # GitHubEX
- Primeiro repositório versionado 
+ **Primeiro repositório versionado** 
 
 created in 11/15/2020, on sunday at 15 pm.
 
